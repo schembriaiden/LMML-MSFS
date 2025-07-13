@@ -69,7 +69,7 @@ Alternatively, you can download from [Flightsim.to](https://flightsim.to/file/75
 | **Name** | Malta International Airport |
 | **Location** | Luqa, Malta |
 | **Elevation** | 300 ft (91 m) |
-| **Runways** | 13/31 (3,544m × 45m) |
+| **Runways** | 13/31 (3,350m × 58m), 05/23 (2,373m × 45m) |
 | **Operating Hours** | 24/7 |
 
 ### Radio Frequencies
