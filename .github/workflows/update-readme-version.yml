@@ -1,0 +1,48 @@
+name: Update README Version
+
+on:
+  push:
+    branches: [ main, develop ]
+    paths:
+      - 'Packages/vikingstudios-airport-lmml-malta/manifest.json'
+  pull_request:
+    branches: [ main, develop ]
+    paths:
+      - 'Packages/vikingstudios-airport-lmml-malta/manifest.json'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Update README version
+      run: |
+        python scripts/update_readme_version.py
+        
+    - name: Check for changes
+      id: changes
+      run: |
+        if git diff --quiet README.md; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "🤖 Auto-update README version from manifest.json"
+        git push
