@@ -49,7 +49,6 @@ Malta International Airport (LMML) is the only airport serving the Maltese islan
 3. Copy the `vikingstudios-airport-lmml-malta` folder to your MSFS Community folder:
    - **Steam**: `C:\Users\[Username]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community\`
    - **Microsoft Store**: `C:\Users\[Username]\AppData\Local\Packages\Microsoft.FlightSimulator_*\LocalCache\Packages\Community\`
-   - **Xbox Game Pass**: Similar to Microsoft Store version
 
 ### GSX Profile Installation (Optional)
 If you have GSX (Ground Services X) installed:
