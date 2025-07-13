@@ -58,7 +58,7 @@ If you have GSX (Ground Services X) installed:
 3. Restart MSFS and GSX for the profile to take effect
 
 ### Alternative Download
-Alternatively, you can download from [Flightsim.to](https://flightsim.to/file/75544/lmml-malta-international-airport-malta-early-access) and follow their installation guide.
+Alternatively, you can download from [Flightsim.to](https://flightsim.to/file/75544/lmml-malta-international-airport-malta-early-access) and follow the above installation guide.
 
 ##  Airport Information
 
