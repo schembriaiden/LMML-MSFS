@@ -251,11 +251,67 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="taxi_hold_T1" Guid="{FBA11E2B-E3B6-44F3-A45A-7AF123B3C7E2}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TAXI_HOLD_T1.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxi L" Guid="{60790695-3363-4860-8188-0F570A469B32}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TAXI L.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="taxi_hold_T4" Guid="{CB44C169-78BB-4255-B1A8-96540B1F3DE5}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TAXI_HOLD_T4.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -1457,6 +1513,34 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="taxi_hold_T5" Guid="{69AF283C-E9F0-4AEE-9806-F79182BE57BA}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TAXI_HOLD_T5.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxiway H" Guid="{7B647427-0AFB-40A7-921F-DD8E3FFFC5D4}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
@@ -2078,6 +2162,62 @@
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="PARKING_23_COUNTER.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="taxi_hold_T2" Guid="{79E1CD80-840E-4C32-A11E-8351E67202FE}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TAXI_HOLD_T2.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="taxi_hold_T3" Guid="{5C17995F-7309-47AC-9F9F-D23C286B0CC8}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TAXI_HOLD_T3.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>

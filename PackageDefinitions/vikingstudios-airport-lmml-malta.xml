@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage ReleaseNotes="PackageDefinitions\vikingstudios-airport-lmml-malta\ReleaseNotes.xml" Version="0.1.2">
+<AssetPackage ReleaseNotes="PackageDefinitions\vikingstudios-airport-lmml-malta\ReleaseNotes.xml" Version="0.1.3">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>LMML</Title>
