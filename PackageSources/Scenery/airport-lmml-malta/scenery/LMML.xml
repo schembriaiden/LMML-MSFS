@@ -4199,7 +4199,7 @@
 				<Vertex lat="35.84717848762930" lon="14.49028840201206"/>
 				<Vertex lat="35.84718394286727" lon="14.49029441327379"/>
 			</Apron>
-			<Apron parentGroupID="1" groupIndex="1760" surface="{A98FAFA4-2B6A-4F62-AF27-E4448E313C40}" drawSurface="FALSE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="1" groupIndex="1760" surface="{A98FAFA4-2B6A-4F62-AF27-E4448E313C40}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="35.84435096170854" lon="14.49426073401837"/>
 				<Vertex lat="35.84439580860571" lon="14.49426458669646"/>
 				<Vertex lat="35.84445244500119" lon="14.49429148840005"/>
