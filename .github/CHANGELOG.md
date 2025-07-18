@@ -1,6 +1,7 @@
-# 0.1.3 (Major)
+# 0.1.3 (Minor)
 
-- Remade all ground paintings from the beginning
+- Remade a bunch of ground paintings from the beginning
+- Added new ground paintings
 
 # 0.1.2 (Minor)
 
