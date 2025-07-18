@@ -559,6 +559,34 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
+	<Material Version="1.4.0" Name="runway_hold_23" Guid="{62A089F8-0AE3-4386-9783-1423718D51F9}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="RUNWAY_HOLD_23.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
 	<Material Version="1.4.0" Name="taxi T" Guid="{5D43D0A6-0A70-4655-B868-271B67D25199}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
@@ -1208,36 +1236,6 @@
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="PARKING 9.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
-		</TextureList>
-		<Attributes>
-			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
-			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
-			<UVOffset U="0.000000" V="0.000000"/>
-			<UVScale U="1.000000" V="1.000000"/>
-			<UVRotate>0.000000</UVRotate>
-			<ExtraParameters>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-			</ExtraParameters>
-		</Attributes>
-	</Material>
-	<Material Version="1.4.0" Name="Rwy Ahead" Guid="{EE2E0F56-8FAD-44DF-8CF0-6800B6AB7A02}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
-		<TagList>
-			<Tag>Asobo_Concrete</Tag>
-		</TagList>
-		<FlagList/>
-		<TextureList>
-			<Texture FileName="RWY AHEAD.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
